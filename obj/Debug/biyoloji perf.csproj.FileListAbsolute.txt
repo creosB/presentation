@@ -1,0 +1,20 @@
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\biyoloji perf.exe.config
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\biyoloji perf.exe
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\biyoloji perf.pdb
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.csprojResolveAssemblyReference.cache
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.Form1.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.Properties.Resources.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.csproj.GenerateResource.Cache
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.csproj.CoreCompileInputs.cache
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.exe
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.pdb
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.giiris.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.kullanicikontrol.ikinciUC.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.kullanicikontrol.ilkUC.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji_perf.Form2.resources
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\Interop.WMPLib.dll
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\Interop.WMPLib.dll
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\barış\source\repos\biyoloji perf\biyoloji perf\obj\Debug\biyoloji perf.csproj.ResolveComReference.cache
